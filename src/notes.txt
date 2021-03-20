@@ -1,0 +1,14 @@
+processing.py is only functions designed to modify the array
+
+processing is the main place to optimize code
+
+the array used for rendering/modification should be an numpy array
+pil for graphics
+
+libraries to consider using:
+numba: efficiency/code speed, adds JIT to python
+cython: adds performance by adding compilation to C
+
+graphics libraries:
+
+
